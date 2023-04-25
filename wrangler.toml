@@ -1,0 +1,9 @@
+name = "chin-ch-in"
+main = "src/index.tsx"
+compatibility_date = "2022-05-03"
+node_compat = true
+
+[[r2_buckets]]
+binding = 'BUCKET'
+bucket_name = 'chin-ch-in'
+preview_bucket_name = 'chin-ch-in'
