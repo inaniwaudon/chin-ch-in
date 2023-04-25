@@ -12,11 +12,11 @@ wrangler r2 object put BUCKET/LINESeedJP_OTF_BD.otf --file=LINESeedJP_OTF_BD.otf
 # launch locally
 wrangler dev
 
-# publish
+# publish to CloudFlare
 wrangler publish
 ```
 
-## Liscense
+## License
 
 This repository contains the font of [LINE Seed JP](https://seed.line.me/index_jp.html).
 Licensed under SIL Open Font License 1.1 (http://scripts.sil.org/OFL)
